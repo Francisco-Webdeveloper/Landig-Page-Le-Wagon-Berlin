@@ -1,0 +1,25 @@
+.banner {
+  background-image: url(https://source.unsplash.com/LDMDCVtQqR4);
+  padding: 180px 140px 140px 140px;
+  background-position: center;
+  background-size: cover;
+}
+
+.banner h1, p {
+  color: white;
+}
+
+.banner p {
+  font-size: 20px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+  margin-bottom: 32px;
+}
+
+.banner p span {
+  color: #E45D60;
+  font-weight: bold;
+}
+
+.banner h1:hover, p:hover {
+  text-decoration: underline;
+}
