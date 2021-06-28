@@ -1,0 +1,60 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 320px;
+  background-color: black;
+  color: white;
+}
+
+.footer h2 {
+  margin: 48px 0 0 0;
+}
+
+.footer p {
+  font-size: 14px;
+  opacity: 0.7;
+  margin-bottom: 24px;
+}
+
+form input, form select {
+  width: 240px;
+  padding: 16px 16px;
+}
+
+form select {
+  background-color: #FCF5E8;
+}
+
+.submit {
+  background-color: #fd1015;
+  color: white;
+  font-weight: bold;
+  border-radius: 0 6px 6px 0;
+}
+
+.submit:hover {
+  background-color: #e45d60;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  margin-top: 48px;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+
+li {
+  display: inline-block;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+li:hover {
+  color: rgb(169, 198, 206);
+}
+
