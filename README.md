@@ -17,9 +17,11 @@ Project created with:
 * CSS3
 
 ## Download
-Go to Terminal and run: git clone "git@github.com:Francisco-Webdeveloper/Landig-Page-Le-Wagon-Berlin.git"
-Now you can go to http://localhost:3000/ and check it out
+Go to Terminal and run: `git clone "git@github.com:Francisco-Webdeveloper/Landig-Page-Le-Wagon-Berlin.git"`
+ 
+Now you can go to `http://localhost:8000/` and check it out
 
 ## Other information
-The page is online and can be visited 👉 https://francisco-webdeveloper.github.io/Landig-Page-Le-Wagon-Berlin/
+The page is online and can be visited 👉 https://francisco-webdeveloper.github.io/Landig-Page-Le-Wagon-Berlin/. 
+
 You can also check the code and a preview 👉 https://codepen.io/francisco-frontend/project/editor/XrpnBd
